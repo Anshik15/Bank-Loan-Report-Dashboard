@@ -29,17 +29,17 @@ Skills Demonstrated: Data analysis, visualization, dashboard design.
 https://github.com/Anshik15/Bank-Loan-Report-Dashboard/blob/main/financial_loan.csv
 
 # ✅ Skills Demonstrated
-Data Cleaning and Validation
-Lookup & Aggregation Functions (VLOOKUP, SUMIFS, INDEX-MATCH)
-Dashboard Design Principles
-Pivot Tables and charts 
-Data Interpretation & Insight Reporting
+Data Cleaning and Validation    
+Lookup & Aggregation Functions (VLOOKUP, SUMIFS, INDEX-MATCH)    
+Dashboard Design Principles     
+Pivot Tables and charts     
+Data Interpretation & Insight Reporting    
 
-## 🎯Impact & Takeaway: 
-This dashboard is a valuable tool for tracking loan performance, analyzing portfolio risk, and planning strategically. 
-✅Identified underperforming regions 
-✅Highlighted borrower behavior patterns 
-✅Assisted in monitoring loan health over time 
+## 🎯Impact & Takeaway:    
+This dashboard is a valuable tool for tracking loan performance, analyzing portfolio risk, and planning strategically.     
+✅Identified underperforming regions       
+✅Highlighted borrower behavior patterns       
+✅Assisted in monitoring loan health over time       
 
 
 
