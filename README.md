@@ -41,6 +41,10 @@ This dashboard is a valuable tool for tracking loan performance, analyzing portf
 ✅Highlighted borrower behavior patterns       
 ✅Assisted in monitoring loan health over time       
 
+# 📬Contact
+🔗 [GitHub Repository](https://github.com/)
+📫 Email: anshikjain85@gmail.com
+🌐 LinkedIn:(https://www.linkedin.com/in/anshikjain15/)
 
 
 
