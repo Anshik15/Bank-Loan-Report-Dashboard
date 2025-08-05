@@ -1,6 +1,6 @@
 # 📊Bank-Loan-Report-Dashboard
 In order to monitor and assess our bank's lending activities and performance, we need to create a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.       
-          The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+            The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
 ## Key Performance Indicators (KPIs) Requirements:
 1.	Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).     
@@ -14,6 +14,24 @@ Objective: In our Bank Loan Report project, we aim to visually represent critica
 Tools Used: Microsoft Excel(pivot Table, charts, Conditional Formatting)     
 Skills Demonstrated: Data analysis, visualization, dashboard design.   
 
+# 📈Key Visualizations:
+- 📉Line Charts for Monthly Trends
+- 🗺️Filled Map for Regional Analysis by State
+- 🍩Donut Chart for Loan Term Distribution
+- 📊Bar Charts for Employment and Loan Purpose Analysis
+- 🏠Tree Map for Home Ownership Impact
+
 ## Dashboard Preview:
 <img width="1801" height="483" alt="image" src="https://github.com/Anshik15/Bank-Loan-Report-Dashboard/blob/main/Bank_report_dashbord(overview).png" />
 <img width="1801" height="483" alt="image" src="https://github.com/Anshik15/Bank-Loan-Report-Dashboard/blob/main/Bank_report_dashbord(summary).png" />
+
+# data Source
+https://github.com/Anshik15/Bank-Loan-Report-Dashboard/blob/main/financial_loan.csv
+
+## 🎯Impact & Takeaway: 
+This dashboard is a valuable tool for tracking loan performance, analyzing portfolio risk, and planning strategically. 
+✅Identified underperforming regions 
+✅Highlighted borrower behavior patterns 
+✅Assisted in monitoring loan health over time 
+
+
